@@ -1,5 +1,5 @@
 # Poor CLI for hackertarget.com
-####### v0.0.2-dev
+###### v0.0.2-dev
 
 A poor API-ish thing.
 
